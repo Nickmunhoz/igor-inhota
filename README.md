@@ -10,9 +10,9 @@ Salve as 3 fotos enviadas na pasta `assets/img/` com **exatamente** estes nomes:
 
 | Arquivo | Foto | Onde aparece |
 |---------|------|--------------|
-| `igor-hero.png`  | Foto 3 — sorrindo, braços cruzados | Hero (topo) |
-| `igor-sobre.png` | Foto 2 — headshot fechado, sério   | Seção Sobre |
-| `igor-cta.png`   | Foto 1 — braços cruzados, neutro   | CTA final / vídeo |
+| `igor-hero.png`  | Braços cruzados (camisa preta)   | Hero (topo) |
+| `igor-sobre.png` | Jaleco branco (sorrindo)         | Seção Sobre |
+| `igor-cta.png`   | Braços cruzados (mesma do Hero)  | CTA final |
 
 > **Otimização (WebP) — recomendado antes de publicar:** os PNGs têm ~1,2 MB cada.
 > 1. Acesse https://squoosh.app, abra cada foto, escolha **WebP** (qualidade ~80) e baixe.
